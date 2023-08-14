@@ -6,3 +6,4 @@ Notebooks with Data Science portfolio projects:
 * ARIMA Time Series Stock Price Prediction
 * Classical Time Series Models (AR, MA, ARMA, ARIMA)
 * Making Time Series Stationary
+* Time Series Smoothing: Moving Avg and Exponential Smoothing
