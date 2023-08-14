@@ -7,3 +7,4 @@ Notebooks with Data Science portfolio projects:
 * Classical Time Series Models (AR, MA, ARMA, ARIMA)
 * Making Time Series Stationary
 * Time Series Smoothing: Moving Avg and Exponential Smoothing
+* Time Series Forecasting with XGBoost framework (Hourly Energy)
